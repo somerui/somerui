@@ -1,9 +1,9 @@
 ### Hi there 👋 What? What is this?
 # somerui here.
-> An crazy programmer and a gamer.
+> A programmer and a gamer.
 - Live in Shenyang, China.
 - Playing games like Minecraft, Terraria, and some of rhythm games.
-> Try [Arcaea](https://arcaea.lowiro.com/),It is a very good game.
+- Try [Arcaea](https://arcaea.lowiro.com/),It's a very good game.
 - Learning programming languages like C/C++, JavaScript, and Java.
 - Trying to be a musician.
 > pronoun: ze/zir
