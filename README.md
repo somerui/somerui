@@ -45,7 +45,5 @@
 - Email: 
 <br>somerui_@outlook.com
 <br>somerui.official_@gmail.com
-- Discord: somerui#7362
-- Telegram: @somerui
 
 ###### Ë
