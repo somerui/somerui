@@ -47,3 +47,5 @@
 <br>somerui.official_@gmail.com
 - Discord: somerui#7362
 - Telegram: @somerui
+
+###### Ë
