@@ -3,11 +3,10 @@
 > A programmer and a gamer.
 - Live in Shenyang, China.
 - Playing games like Minecraft, Terraria, and some of rhythm games.
-- Try [Arcaea](https://arcaea.lowiro.com/),It's a very good game.
 - Learning programming languages like C/C++, JavaScript, and Java.
 - Trying to be a musician.
 > pronoun: ze/zir
-- I'm not a Non-binary person. I changed my pronoun to "ze/zir" just a joke.I'm a male.
+- I'm not a Non-binary person. I changed my pronoun to "ze/zir" just a joke.I'm male.
 
 ## About my status
 ![somerui's Stats](https://github-readme-stats.vercel.app/api?username=somerui&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
@@ -45,7 +44,5 @@
 - Email: 
 <br>somerui_@outlook.com
 <br>somerui.official_@gmail.com
-- Discord: somerui#7362
-- Telegram: @somerui
 
 ###### Ë
