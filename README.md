@@ -1,7 +1,6 @@
 ### Hi there 👋 What? What is this?
 # somerui here.
-> A programmer and a gamer.
-- Live in Shenyang, China.
+- A programmer and a gamer.
 - Playing games like Minecraft, Terraria, and some of rhythm games.
 - Learning programming languages like C/C++, JavaScript, and Java.
 - Trying to be a musician.
