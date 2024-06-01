@@ -24,7 +24,9 @@
 
 ## Devices in Use
 - Phone: Xiaomi 14&Google Pixel 7 Pro
-> I wanna change my phone to Apple iPhone 15 Pro, but I have no money...
+> F*ck Xiaomi.
+
+> WHY THE FUCKING HYPEROS NEEDS AN TIER 5 ACCOUNT TO GET THE BOOTLOADER UNLOCK PERMISSION?
 - Tablet: iPad 9th Gen
 - Laptop: ~~MacBook Pro (16-inch, 2023, Apple M3 Max)~~
 > Actually, I don't use a laptop, but I will buy when my money is enough.
@@ -42,6 +44,7 @@
 ## Contact me
 - Email: 
 <br>somerui_@outlook.com
-<br>somerui.official_@gmail.com
+- Business Mail: 
+
 
 ###### Ë
