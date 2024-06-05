@@ -1,11 +1,9 @@
 ### Hi there 👋 What? What is this?
 # somerui here.
-- A programmer and a gamer.
-- Playing games like Minecraft, Terraria, and some of rhythm games.
-- Learning programming languages like C/C++, JavaScript, and Java.
+- A programmer.
+- Playing games like Minecraft, and some of rhythm games.
+- Making rhythm games fanmade charts,such as Arcaea,Lanota,etc.
 - Trying to be a musician.
-> pronoun: ze/zir
-- I'm not a Non-binary person. I changed my pronoun to "ze/zir" just a joke.I'm male.
 
 ## About my status
 ![somerui's Stats](https://github-readme-stats.vercel.app/api?username=somerui&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
@@ -23,13 +21,10 @@
 - ~~Assembly Language(Too hard.I give up)~~
 
 ## Devices in Use
-- Phone: Xiaomi 14&Google Pixel 7 Pro
-> F*ck Xiaomi.
-
-> WHY THE FUCKING HYPEROS NEEDS AN TIER 5 ACCOUNT TO GET THE BOOTLOADER UNLOCK PERMISSION?
-- Tablet: iPad 9th Gen
-- Laptop: ~~MacBook Pro (16-inch, 2023, Apple M3 Max)~~
-> Actually, I don't use a laptop, but I will buy when my money is enough.
+- Phone: iPhone 15 Pro 2TB&Google Pixel 7 Pro 512GB
+- Tablet: iPad Pro M4 13-inch
+- Laptop: MacBook Pro (16-inch, 2023, Apple M3 Max)
+- Watch: Apple Watch Ultra 2
 - PC:
 <br>CPU: i12700K
 <br>GPU: RTX 3060Ti
@@ -42,9 +37,6 @@
 - [Instagram](https://www.instagram.com/_somerui)
 - [Twitter](https://twitter.com/somerui_)
 ## Contact me
-- Email: 
-<br>somerui_@outlook.com
-- Business Mail: 
-
+- [Business Contact](mailto:somerui_@icloud.com)
 
 ###### Ë
