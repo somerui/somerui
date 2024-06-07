@@ -18,7 +18,7 @@
 - HTML/CSS
 - JavaScript
 - Python(Still learning)
-- ~~Assembly Language(Too hard.I give up)~~
+- Lua
 
 ## Devices in Use
 - Phone: iPhone 15 Pro 2TB&Google Pixel 7 Pro 512GB
@@ -32,6 +32,10 @@
 <br>Disk: 1TB SSD
 <br>OS: Windows 11 Professional&Ubuntu 22.04 LTS
 
+## Sponsor me
+- [Patreon](https://www.patreon.com/somerui)
+- [Afdian](https://afdian.net/a/somerui)
+- [PayPal](https://www.paypal.com/paypalme/somerui)
 ## My Social Media accounts
 - [Bilibili](https://space.bilibili.com/3494363709573649/)
 - [Instagram](https://www.instagram.com/_somerui)
