@@ -7,9 +7,9 @@
 
 ## About my status
 ![somerui's Stats](https://github-readme-stats.vercel.app/api?username=somerui&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-<br>
+
 ![somerui's Streak](https://github-readme-streak-stats.herokuapp.com/?user=somerui&theme=vue-dark&hide_border=true)
-<br>
+
 ![somerui's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=somerui&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## My Programming Languages
@@ -26,7 +26,7 @@
 - Laptop: MacBook Pro (16-inch, 2023, Apple M3 Max)
 - Watch: Apple Watch Ultra 2
 - PC:
-<br>CPU: i12700K
+<br>CPU: 12700K
 <br>GPU: RTX 3060Ti
 <br>RAM: 32GB DDR4
 <br>Disk: 1TB SSD
