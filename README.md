@@ -2,7 +2,7 @@
 
 # somerui here.
 
-## Tell you something. The account of GitCode is not mine. They steal my name and my repositories. I trying to talk to them to delete that Another Me but they reject me and ban mine IP.
+## Remember The account of GitCode is not mine. They steal my name and my repositories. I trying to talk to them to delete that guy used my name. but they reject me and ban me.
 
 - A programmer.
 - Playing games like Minecraft, and some of rhythm games.
