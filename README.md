@@ -29,13 +29,7 @@
 - Phone: iPhone 15 Pro & Google Pixel 7 Pro 512GB
 - Tablet: iPad Pro M4 13-inch
 - Laptop: MacBook Pro (16-inch, Apple M3 Max)
-- Watch: Apple Watch Ultra 2
-- PC:
-  <br>CPU: 12700K
-  <br>GPU: RTX 3060Ti
-  <br>RAM: 32GB DDR4
-  <br>Disk: 1TB SSD
-  <br>OS: Windows 11 Professional&Ubuntu 22.k04 LTS
+- Watch: Apple Watch Ultra 2023
 
 ## Sponsor me
 
@@ -49,8 +43,6 @@
 - [Instagram](https://www.instagram.com/_somerui)
 - [Twitter](https://twitter.com/somerui_)
 
-## Contact me
 
-- [Business Contact](mailto:somerui@icloud.com)
 
-###### Ë
+
