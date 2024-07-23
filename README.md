@@ -2,8 +2,6 @@
 
 # somerui here.
 
-## Remember The account of GitCode is not mine. They steal my name and my repositories. I trying to talk to them to delete that guy used my name. but they reject me and ban me.
-
 - A programmer.
 - Playing games like Minecraft, and some of rhythm games.
 - Making rhythm games fanmade charts,such as Arcaea,Lanota,etc.
@@ -42,7 +40,3 @@
 - [Bilibili](https://space.bilibili.com/3494363709573649/)
 - [Instagram](https://www.instagram.com/_somerui)
 - [Twitter](https://twitter.com/somerui_)
-
-
-
-
