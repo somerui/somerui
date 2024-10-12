@@ -1,16 +1,20 @@
 <!DOCTYPE html>
+
 <html>
 	<head>
-		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta charset="UTF-8">
+		<meta http-equiv="Content-Type" content="text/html">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>somerui here.</title>
+	<link href="https://fonts.googleapis.com/css2?family=Exo&display=swap" rel="stylesheet">
 	<style>
-
+		
 @font-face {
 	font-family: 'Exo';
-	font-style: italic;
-	src: url('https://fonts.googleapis.com/css2?family=Exo:ital,wght@0,100..900;1,100..900&display=swap') format('ttf');
-	unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+	src: url(/Exo.TTF);
 }
+
+
 
 html, body {
 	margin: 0;
@@ -18,7 +22,13 @@ html, body {
 }
 
 body {
+	-webkit-backdrop-filter: blur(10px);
+	backdrop-filter: blur(10px);
 	background-color: #000000;
+	background-image: url(/somerui.svg);
+	background-repeat: no-repeat;
+  	background-position: center center;
+	background-size: 768px;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -29,7 +39,7 @@ body {
 
 main {
 	font-family: 'Exo', sans-serif;
-	color: #ffffff;
+	color: rgb(192,192,192);
 	line-height: 1.5em;
 }
 
@@ -37,28 +47,40 @@ main {
 	font-family: 'Exo', sans-serif;
 	font-size: 1.5em;
 	padding-bottom: 0.75em;
+	
 }
 
 #links {
 	border: 1.5px solid #888;
-	padding: 1.5em;
-	background-color: #000000;
+	background: rgba(0, 0, 0, 0.7);
+	-webkit-backdrop-filter: blur(10px);
+	backdrop-filter: blur(10px);
+
 }
 
 #dialog {
-	border: 1.5px solid #888;
-	padding: 1.5em;
-	background-color: #000000;
+    display: none; /* 初始隐藏 */
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border: 1px solid #fff;
+	background: rgba(0, 0, 0, 0.7);
+	-webkit-backdrop-filter: blur(10px);
+	backdrop-filter: blur(10px);
+    padding: 20px;
+    z-index: 1000;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
-#dialog1 {
-	border: 1.5px solid #888;
-	padding: 1.5em;
-	background-color: #000000;
-}
+
 
 #misc {
 	padding-top: 0.75em;
+}
+
+#support {
+    border-color: #888;
 }
 
 .clsd {
@@ -70,43 +92,115 @@ main {
 }
 
 
+a {
+	color: #ffffff;
+	position: relative;
+	text-decoration: none;
+}
 
-a {color: #8ac; text-decoration: none;}
 
-a:hover {text-decoration: underline;}
-		</style>
+a:before {
+	content: "";
+	position: absolute;
+	width: 100%;
+	height: 2px;
+	bottom: 0;
+	left: 0;
+	background-color: #fff;
+	visibility: hidden;
+	-webkit-transform: scaleX(0);
+	-o-transform: scaleX(0);
+	transform: scaleX(0);
+	-webkit-transition: all 0.3s ease-in-out 0s;
+	-o-transition: all 0.3s ease-in-out 0s;
+	transition: all 0.3s ease-in-out 0s;
+}
+
+a:hover:before {
+	visibility: visible;
+	-webkit-transform: scaleX(1);
+	-o-transform: scaleX(1);
+	transform: scaleX(1);
+}
+
+crossline {
+	border-bottom:1px solid #CCC;
+}
+
+	</style>
 	</head>
 	<body>
 		<main>
-			
 			<div id="title" >
 				somerui
 			</div>
 			<div id="links">
-            	<div class="lnk">
-					<a href="https://https://space.bilibili.com/3494363709573649/" target="_blank">bilibili</a>
+				<div class="lnk">
+					<a href="https://github.com/somerui" target="_blank" rel="noopener">GitHub</a>
 				</div>
 				<div class="lnk">
-					<a href="https://github.com/somerui" target="_blank">GitHub</a>
+					<a href="https://soundcloud.com/somerui" target="_blank" rel="noopener">SoundCloud</a>
 				</div>
 				<div class="lnk">
-					<a href="https://soundcloud.com/somerui" target="_blank">SoundCloud</a>
+					<a href="https://x.com/somerui7634" target="_blank" rel="noopener">Twitter</a>
 				</div>
 				<div class="lnk">
-					<a href="https://x.com/somerui7634" target="_blank">Twitter</a>
+					<a href="https://facebook.com/somerui" target="_blank" rel="noopener">Facebook</a>
 				</div>
 				<div class="lnk">
-					<a href="https://modrinth.com/user/somerui " target="_blank">Modrinth</a>
+					<a href="https://modrinth.com/user/somerui " target="_blank" rel="noopener">Modrinth</a>
 				</div>
+				
 				<div class="lnk">
-					<a href="https://www.youtube.com/@somerui7634" target="_blank">YouTube</a>
+					<a href="https://www.youtube.com/@somerui7634" target="_blank" rel="noopener">YouTube</a>
 				</div>
 			</div>
     <div class="misc">
-            <h3>Contact</h3>
-			<p><strong style="color: red;">CLOSED FOR EMAIL CONTACT.</strong></p>
+            <h3>Misc</h3>
+			
+			</div>
+			<div id="support">
+				<h4><a href="#" id="openDialogLink" style="color: #333;">Support me</a>	</h3>
+
+    <div id="overlay"></div>
+    <div id="dialog">
+        <h2>Support me</h2>
+        <p>If you like my work and want to support me, you can donate me through these platforms.</p>
+		<div class="crossline"></div>
+		<div class="lnk">
+			<a href="https://patreon.com/somerui" target="_blank" rel="noopener">Patreon</a>
+		</div>
+
+		<div class="lnk">
+			<a href="https://afdian.com/a/somerui" target="_blank" rel="noopener">Afdian</a>
+		</div>
+
+        <a href="#" id="closeDialog" style="color: #7f7f7f;">Close</a>
+    </div>
     <script>
+        // 获取元素
+        const openDialogLink = document.getElementById('openDialogLink');
+        const closeDialog = document.getElementById('closeDialog');
+        const dialog = document.getElementById('dialog');
+        const overlay = document.getElementById('overlay');
+
+        // 打开弹窗
+        openDialogLink.onclick = function(event) {
+            event.preventDefault(); // 防止默认链接跳转
+            dialog.style.display = 'block';
+            overlay.style.display = 'block';
+        }
+
+        // 关闭弹窗
+        closeDialog.onclick = function() {
+            dialog.style.display = 'none';
+            overlay.style.display = 'none';
+        }
+
     </script>
+
+			</div>
+
 	</div>
 			
 		</div>
