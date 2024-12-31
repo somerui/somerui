@@ -1,4 +1,5 @@
-## somerui here.- a open-source amateur&music producer.
+## somerui here.
+- a open-source amateur&music producer.
 - I'm using OpenMPT for my DAW.
 - you can contact me on discord.
 > [server's link](https://discord.gg/mbD3FVrMF6)
