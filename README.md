@@ -1,8 +1,9 @@
 ## somerui here.
-- a open-source amateur&music producer.
+- a open-source amateur&music composer.
 - I'm using OpenMPT for my DAW.
-- you can contact me on discord.
-> [server's link](https://discord.gg/mbD3FVrMF6)
+#### Contact me
+- Discord's server [RUiHub](https://discord.gg/mbD3FVrMF6)
 - if you want to email me, send to [this](somerui@tutamail.com).
-- my gpg fingerprint is "d8827e2e148ca8467e4ee75ca6c80521d97b57aa".
+> Don't send to [this](contact@somerui.xyz) if your mail is not a commission request.
+- my gpg fingerprint:"d8827e2e148ca8467e4ee75ca6c80521d97b57aa"
 > if you want to send me encrypted message&files, download public key on this repo.
