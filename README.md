@@ -9,3 +9,9 @@
 ## Contact me
 - [Personal email](somerui@tutamail.com)
 - [Commission & commercial request email](contact@somerui.xyz)
+## Donate me
+- ETH Address(ERC20,BNB and Polygon recommended):
+> 0xb8aF657B51C1B423CEF996f6da0344EdD363c312
+
+- BTC Address:
+> 1DnhMwH4iva5DPyuaTh7jacrHkJyRNjc3N
