@@ -1,3 +1,4 @@
+# There is something that I wanna to say, go to [this file](/STATEMENT.TXT).
 # somerui here.
 - a open-source amateur&music composer.
 - I'm using OpenMPT for my DAW.

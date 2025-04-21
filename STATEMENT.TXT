@@ -1,0 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+https://space.bilibili.com/3546859163355874
+
+我不知道你要干什么
+你为什么要冒充我
+顶着我的名字去发表一些对我造成影响的事情
+你p图也没用
+你可以伪造证据
+但GPG签名可不是你能伪造的
+
+I don't know what you're doing.
+Why are you pretending to be me?
+To post things under my name that affect me.
+make a fake picture is useless.
+You can fake evidence.
+But you can't fake a GPG signature.
+
+Jeffrey"somerui"Su,
+421AE80F82B230C0C8A6F48A114BF36DD2A85F10
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEQhroD4KyMMDIpvSKEUvzbdKoXxAFAmgGKWkACgkQEUvzbdKo
+XxCZ7g/9EKBBzGhrAWSbiB4cGTA3GKCQFqpLq8U8KbJw4zdGNSqZZPCBGaF1c2Lp
+TGDjCchGayksRoUf+F3HGlraFcLreKE3ip2sfiGK9auc8vE/6uFIfvdtSmGyK8oG
+HKnTid1wBTtLyy/8ci7V3UgcQQz4oI1FBpRMLsZoXGEBcm2DlN4mJEClnPPEoo6m
+zdzvNFOW4mq0BLHsta3fwm2ggGW9g4DKNkb0W3fLw1lSih30VonOUgrQCGo6qlAg
+Vlu0zDRS/nCNXQxarO73wNywAo3ogSBFAkQQBJNp7SIw3M1Kx7gn8YLBH6+kuOxX
+hPyrDR7Pl6p8g0B0uWK8oJg5ItEseWlOizEL6XBv6BQtcmi50NgY58HqiL85MoHD
+f/6kv8i2MbdYoRMQWo4eyMJdFWGmRVoTzBsO/twHhnXIOwxD9Z2HET1J3m6Bwo1Q
+q0Wg2GREaUijnI1gP15N4YAGtyRFw/kbJX9bkdHK7pdqxrj5Awl+C98kM/F7a/5C
++MQjAR/OsqXFtMTmZ122aui8KULoVQ1jw/AJbOYDPdSuxO5Wi6sj6C5dk7Kd//j5
+S6V5uigCJl1vC7JtzxcqQViyHepTWrqfzQrYq5dg4spEPWIvFYlGHIB6WZPs5Fpm
+ql6s3V5MNYQ+LYlleJqQQxDVmcxnrHay/SE6Cf1psHI0MEbnShI=
+=6KK/
+-----END PGP SIGNATURE-----
