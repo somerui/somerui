@@ -3,20 +3,13 @@ If you like my works and you want to support me, there is many ways to sponsor m
 
 until 05/06/2025, there are 3 ways to sponsor me.
 
-## I. Donate via sponsor platform
 
-Now I'm using these platform:
-
-> [Unifans.io, will be redirect to my page](https://app.unifans.io/c/somerui)
-
-Unifans is support PayPal, Bankcard, even cryptocurrency.
+Now I'm using [Unifans](https://app.unifans.io/c/somerui).It support PayPal, Bankcard. even cryptocurrency.
 
     Crypto networks are support ERC-20, TRC-20, BEP-20 and Polygon.
     Cryptocurrencies are support USDT & USDC.
 
 If you don't have these payment method, you can purchase voucher from 3rd-party seller. Vouchers seller maybe support more method. ~~If you can bear the high fees.~~ 
-
-## II. Donate via cryptocurrency
 
 Those are my cryptocurrencies' address:
 
