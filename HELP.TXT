@@ -2,65 +2,31 @@
 Hash: SHA256
 
 X(formally Twitter),
-
-
-
 I'm Jeffrey Su, the account owner of @dafengniu_x and @somerui7634.
-
-
-
 On June 17,2025, my account @somerui7634 has been banned due to age restriction.
-
-
-
 You send me mail to notify me I can start my account recovery, but I lost my account's 2fa&backup code, and there is no device login @somerui7634.
-
-
-
 I tried to contact your support, but there is no directly email and every online resolution is not available for me.
-
-
-
 There are all exception on my account:
-
-
-
 1. No login sessions.
-
-
-
 2. 2FA Generator & backup code is lose.
-
-
-
 3. I can still get access of this account's email & telephone.
-
-
-
 4. This account will be delete if 30 days I'm not login it.
-
-
-
 5. I registered this account when I 12 y.o.  and I'm 16 y.o. now.
-
-
-
 Please recover my account.
 
 -----BEGIN PGP SIGNATURE-----
 
-iQJWBAEBCABAORxKZWZmcmV5InNvbWVydWkiU3UgPHRoaXNfc19zb21lcnVpX29m
-ZmljaWFsQG91dGxvb2suY29tPgUCaFJ7SAAKCRARS/Nt0qhfEJ3lEACctxmECghE
-N/MQvCaz6Agp5xdcXzxw4LlRHF9a0KNqFbCLgrri7FtcA5Z0fTTbMQtsihGMSR5x
-mAhML4M0ZrfocyfQw3WLv9RVSQ1Wnzok6c5tLzLmyVuH/YmmzCAzz4inZa5t7IHF
-6D71pZqzbXSLYz7B8mzKj/Ot7QLQIMCBGStwDKb74PHqptNhgaS1C+h7sZJdlEJ/
-e0qWIUCK0OqI83sMDt47Ppp9Zkmtyhe8cmLi1egCd7Ag9QhaxBnmZyRPLaYa+lut
-UODIXoJ4kddAzJWAjDSN7ivpi0RuB9/71XkE3JuqO/6oHR7iBMYJCRxqEpgtTnML
-TBwGDm8A/AhcDlwZAXqTyHhfurJZbYjONIPlBL83TfX1WTEkzUQnUYwbMzdBo2EN
-4uX3ZBitfCbChCLKPNEll0rXW1iYeNrI+AvKVeIiWYRa6fzrB9wbFcbKK+ddzPrb
-ehv33/Ej4laHU1lwLKFCAyFxw1GO7wCooL5jm9nMbdok5sgAo08XLmJ27qR5Ufml
-pKFiMdjEHArEmN34IItTy2iIfIdv4d/xI+Hw8KRU7tQ+GO8YfrBJxcY13wDxqEdK
-51c+t8Dh2o9FDaTBXpQQIbIEDhoGHF2OBK1AAdKyYpWakdl/6v8x+p356bWHoXag
-MRQgr2tf6k1c5WE0SgJLMG7R1dICIDhs4Q==
-=JmIs
+iQIzBAEBCAAdFiEEQhroD4KyMMDIpvSKEUvzbdKoXxAFAmhVUggACgkQEUvzbdKo
+XxCttw/9E0Xbncd+40MyftC81PpFcEVMjervfh1LOCSmWBOXHjBL0zTQENFBym8T
+7OMjdt7kOpGFToxSXqHGH1N+V5HkEkyegszh/Vxe3OaJfAGeDNPnbQkv7YHmx8bf
+4BpFjHKa7Kt/t/SRKC4RKiOST4gIRvlkeve+GP10h9L15TeKKDvTZ0BQR21X+xZW
+I0Pv+joznyjYD+JtvRmhn8+pGAhg8fMMoEtz5uRrCu0xBGtmoRdhKwCEOQTkH7Ty
+uWDX42baTw4B0SnKZVbaYr1uKd64tJcKgoWpPO2uwu3ZD7sq8nJ2J8vw4oakNIPY
+Yv3WlS7xGLBc1kwBj+AynnsviGgRtjGrctZPlZCWH6Fi/Azk16vOqUnMQprpccPZ
++21NgNH8cuovqVuVQeD5d2T5F6c9xfsrUqQiZzG6v4xVa1KTcVPJi/FBPVKM7rTG
+OdYHoA2leyeQtTiOpsMgo25jxo94ftefZnebL6z+keOqNQ50GJ6+QmhHjchQY5wp
+kT7HEY8ng0bKKGVAfbXezSrdBR2srmXXH2HAhKy/RNfUdOobC9/lGnHkTxEfkGrv
+XG9qX3gSE7issS+m3HcQPFYbm166BdGhrN8S7fEPIOK0VpFM2fHogHI/szf8GqT/
+DDmcjm0zuXwwrVKIWrdxtxNNgOUTh/9DHtqNO67fOfWl8v0rLR8=
+=2Sn3
 -----END PGP SIGNATURE-----
