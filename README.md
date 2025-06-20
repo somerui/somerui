@@ -29,8 +29,8 @@ If you like my projects, you can buy me a coffee at:
 
 ## Links
 
-    OpenPGP Fingerprint:421AE80F82B230C0C8A6F48A114BF36DD2A85F10
-> available on OpenPGP Server.
+    OpenPGP Fingerprint: 421AE80F82B230C0C8A6F48A114BF36DD2A85F10
+> available on OpenPGP&GitHub PGPServer.
  
 ## Contact me
 [![Email](https://img.shields.io/badge/somerui_@outlook.com-square&ogoColor=white)](mailto:somerui_@outlook.com)
