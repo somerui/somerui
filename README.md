@@ -1,5 +1,7 @@
 ### Hi there 👋 This... It's me? Okay.
 
+    Important:I will never active on X because they banned my account due to age restrictions and I can't get access of my account.
+
 ## Introduce sth of me...?
 
 - Name... okay, it's Jeffrey Su, just call me "Jeff" or "somerui".
