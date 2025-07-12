@@ -36,3 +36,7 @@ If you like my projects, you can buy me a coffee at:
  
 ## Contact me
 [![Email](https://img.shields.io/badge/somerui_@outlook.com-square&ogoColor=white)](mailto:somerui_@outlook.com)
+
+> If you want add me to contact on other platform, please read this:
+
+<script src="https://gist.github.com/somerui/a0fdecb6c5d9bb592d694cccb16f3e53.js"></script>
