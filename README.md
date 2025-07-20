@@ -1,10 +1,23 @@
 ### Hi there 👋 This... It's me? Okay.
 
-    Important:I will never active on X because they banned my account due to age restrictions and I can't get access of my account.
+    F U C K U M U S K
 
 ## Introduce sth of me...?
 
-- Name... okay, it's Jeffrey Su, just call me "Jeff" or "somerui".
+- Name... okay, it's Jeffrey Su, just call me "Jeff" or...
+
+```
+                                           _____
+____________________ ___________________  ____(_)
+__  ___/  __ \_  __ `__ \  _ \_  ___/  / / /_  /
+_(__  )/ /_/ /  / / / / /  __/  /   / /_/ /_  /
+/____/ \____//_/ /_/ /_/\___//_/    \__,_/ /_/
+```
+
+Ha! What a cool ASCII art!
+
+
+
 - Chinese / 16 y.o. / Male
 
 ## Languages
@@ -21,12 +34,17 @@ emm, if you means Programming languages, see these:<br>
 ![C++](https://img.shields.io/badge/-C%2b%2b-00599c?style=flat-square&logo=C%2b%2b&logoColor=fff)
 ![C](https://img.shields.io/badge/-C-a8b9cc?style=flat-square&logo=C&logoColor=fff)
 
+if you means Speaking languages:
+
+
 
 ## Buy me a Coffee
 
 If you like my projects, you can buy me a coffee at:
 
 [![UniFans.io](https://img.shields.io/badge/UniFans.io-square)](https://app.unifans.io/c/somerui)
+
+More info, go to [![a](https://img.shields.io/badge/this-square)](https://github.com/somerui/somerui/blob/main/markdown/sponsor/TIER.MD).
 
 
 ## Links
