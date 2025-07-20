@@ -1,10 +1,8 @@
-### Hi there 👋 This... It's me? Okay.
+### Hi there 👋
 
-    F U C K U M U S K
+### About Me
 
-## Introduce sth of me...?
-
-- Name... okay, it's Jeffrey Su, just call me "Jeff" or...
+- Jeffrey Su, just call me "Jeff" or...
 
 ```
                                            _____
@@ -14,15 +12,16 @@ _(__  )/ /_/ /  / / / / /  __/  /   / /_/ /_  /
 /____/ \____//_/ /_/ /_/\___//_/    \__,_/ /_/
 ```
 
-Ha! What a cool ASCII art!
+
 
 
 
 - Chinese / 16 y.o. / Male
+- Enter web since 2020
 
-## Languages
+### Programming Languages
 
-emm, if you means Programming languages, see these:<br>
+here’s what I use:<br>
 ![Java](https://img.shields.io/badge/-Java-f80000?style=flat-square&logo=oracle&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=CSS3&labelColor=1572b6)
 ![HTML5](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff)
@@ -34,8 +33,14 @@ emm, if you means Programming languages, see these:<br>
 ![C++](https://img.shields.io/badge/-C%2b%2b-00599c?style=flat-square&logo=C%2b%2b&logoColor=fff)
 ![C](https://img.shields.io/badge/-C-a8b9cc?style=flat-square&logo=C&logoColor=fff)
 
-if you means Speaking languages:
+### Spoken Languages
 
+Chinese(my primary language)
+
+- Mandarin(heavy northeastern accent but accent-free too)
+- Cantonese(not so good)
+
+English(No problem with speaking, but low vocabulary)
 
 
 ## Buy me a Coffee
@@ -44,7 +49,7 @@ If you like my projects, you can buy me a coffee at:
 
 [![UniFans.io](https://img.shields.io/badge/UniFans.io-square)](https://app.unifans.io/c/somerui)
 
-More info, go to [![a](https://img.shields.io/badge/this-square)](https://github.com/somerui/somerui/blob/main/markdown/sponsor/TIER.MD).
+More info, go to markdown/sponsor/DONATE.MD.
 
 
 ## Links
@@ -53,4 +58,6 @@ More info, go to [![a](https://img.shields.io/badge/this-square)](https://github
 > available on OpenPGP&GitHub PGPServer.
  
 ## Contact me
-[![Email](https://img.shields.io/badge/somerui_@outlook.com-square&ogoColor=white)](mailto:somerui_@outlook.com)
+
+[Email](mailto:somerui_@outlook.com)
+
