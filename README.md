@@ -5,7 +5,7 @@ __  ___/  __ \_  __ `__ \  _ \_  ___/  / / /_  /
 _(__  )/ /_/ /  / / / / /  __/  /   / /_/ /_  /
 /____/ \____//_/ /_/ /_/\___//_/    \__,_/ /_/
 ```
-🇨🇳/🇬🇧🇺🇲
+中文/ENG
 
 [![UniFans.io](https://img.shields.io/badge/UniFans.io-square)](https://app.unifans.io/c/somerui)
 
