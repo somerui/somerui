@@ -7,8 +7,6 @@ _(__  )/ /_/ /  / / / / /  __/  /   / /_/ /_  /
 ```
 中文/ENG
 
-[![UniFans.io](https://img.shields.io/badge/UniFans.io-square)](https://app.unifans.io/c/somerui)
-
 OpenPGP Fingerprint: 421AE80F82B230C0C8A6F48A114BF36DD2A85F10
 
 [Email](mailto:somerui_@outlook.com)
