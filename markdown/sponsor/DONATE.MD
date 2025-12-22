@@ -8,12 +8,12 @@ There are two ways to sponsor me until June 2025:
 
 I’m currently using [Unifans](https://app.unifans.io/c/somerui), which accepts many payment methods.
 
-- Supported PayPal
+- Supported PayPal, Bank Card, etc.
 - Supported crypto networks: ERC-20, TRC-20, BEP-20, Polygon, coins: **USDT, USDC**
 
 If you don’t have these payment methods, you can buy vouchers from third-party sellers, who might support more payment options, especially for Mainland China.<br>(Note: fees might be higher than directly buy on official.)
 
-and, [Patreon](https://patreon.com/c/somerui) is available too! but free post only because I don't have a bank card or PayPal account to receive moneys.
+and, [Patreon](https://patreon.com/c/somerui) is available too! but free post only because I don't have a bank card or PayPal account to get rewards.
 
 ## 2. Send Crypto Directly
 
@@ -41,7 +41,7 @@ or..
 
 Nah, just for joke. I'm just 16 and I can't open a PayPal account until June 17,2027(18y.o. 's day). Wait for that day!
 
-Same reason of why I can't receive rewards on Patreon.
+Same reason of why I can't get rewards on Patreon.
 
 ---
 
