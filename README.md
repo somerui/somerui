@@ -2,7 +2,7 @@
 
 ### About Me
 
-- Jeffrey Su, just call me "Jeff" or...
+- Jeffrey Su
 
 ```
                                            _____
@@ -10,15 +10,11 @@ ____________________ ___________________  ____(_)
 __  ___/  __ \_  __ `__ \  _ \_  ___/  / / /_  /
 _(__  )/ /_/ /  / / / / /  __/  /   / /_/ /_  /
 /____/ \____//_/ /_/ /_/\___//_/    \__,_/ /_/
+Special thanks:figlet-cli on NPM
 ```
-somerui
-
-```Special thanks:figlet-cli on NPM```
 
 
 
-- Chinese Now live in ~~Shenyang~~
-    - Actually in Fushun, but available in Shenyang too.
 - 16 y.o.(June 2009)
 - he/him/they/them
 - start active as "somerui" in 2021
@@ -32,7 +28,6 @@ somerui
 ![Batch](https://img.shields.io/badge/-Batch-4d4d4d?style=flat-square&logo=windows%20terminal&logoColor=fff)
 ![Shell](https://img.shields.io/badge/-Shell-4eaa25?style=flat-square&logo=gnu%20bash&logoColor=fff)
 
-![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
 ![C](https://img.shields.io/badge/-C-a8b9cc?style=flat-square&logo=C&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C%2b%2b-00599c?style=flat-square&logo=C%2b%2b&logoColor=fff)
 
@@ -42,12 +37,13 @@ somerui
 
 - Chinese(my primary language)
 
-    - Mandarin(heavy northeastern accent but accent-free too)
+    - Mandarin(a little "DONGBEI" accent)
     - Cantonese(not so good)
 
 - English(bad speech nah)
 
-I mostly communicate in Mandarin and English online.
+mostly communicate in Mandarin and ENG online.
+
 ## Devices
 
 see these output.
@@ -98,17 +94,8 @@ Memory: 15207MiB
 
 ```
 
-And... iPad 9 256GB.
-
 and there is a armv7l board. And it's dead now.
-![r](/retouch_2025122222511406.jpg)
-## Buy me a Coffee
-
-If you like my projects, you can buy me a coffee at:
-
-[UniFans.io](https://app.unifans.io/c/somerui)
-
-More info, go to markdown/sponsor/DONATE.MD.
+![r](/rip_onecloud.jpg  )
 
 ---
 
@@ -117,7 +104,7 @@ More info, go to markdown/sponsor/DONATE.MD.
 
 OpenPGP Fingerprint: 421AE80F82B230C0C8A6F48A114BF36DD2A85F10
 
-> available on OpenPGP&GitHub PGPServer.
+> pubkey available on OpenPGP&GitHub PGPServer.
  
 ## Contact me
 
