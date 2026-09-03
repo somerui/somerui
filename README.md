@@ -1,8 +1,6 @@
-### Hi there 👋
 
-### About Me
+# About Me
 
-- Jeffrey Su
 
 ```
                                            _____
@@ -10,14 +8,13 @@ ____________________ ___________________  ____(_)
 __  ___/  __ \_  __ `__ \  _ \_  ___/  / / /_  /
 _(__  )/ /_/ /  / / / / /  __/  /   / /_/ /_  /
 /____/ \____//_/ /_/ /_/\___//_/    \__,_/ /_/
-Special thanks:figlet-cli on NPM
+
 ```
 
 
 
 - 16 y.o.(June 2009)
 - he/him/they/them
-- start active as "somerui" in 2021
 
 ## Programming Languages
 
@@ -37,8 +34,8 @@ Special thanks:figlet-cli on NPM
 
 - Chinese(my primary language)
 
-    - Mandarin(a little "DONGBEI" accent)
-    - Cantonese(not so good)
+    - Mandarin
+    - ~~Cantonese~~(well i give up)
 
 - English(bad speech nah)
 
@@ -93,9 +90,7 @@ CPU: (8) @ 2.035GHz
 Memory: 15207MiB
 
 ```
-
-and there is a armv7l board. And it's dead now.
-![r](/rip_onecloud.jpg  )
+**2026-09-03: FINALLY I UNLOCKED THE DEVICE!!! FREE ANDROID!!!**
 
 ---
 
@@ -104,7 +99,7 @@ and there is a armv7l board. And it's dead now.
 
 OpenPGP Fingerprint: 421AE80F82B230C0C8A6F48A114BF36DD2A85F10
 
-> pubkey available on OpenPGP&GitHub PGPServer.
+> Pub-key available on OpenPGP, or download from [GitHub](https://github.com/somerui.gpg).
  
 ## Contact me
 
